@@ -1,0 +1,8 @@
+CMPT270 - Assignment 6
+===========================
+
+Welcome to the repository for CMPT270 - Assignment 6. 
+
+This project contains a Java implementation of the classic arcade game [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders).
+
+The goal of this assignment is to experience working with the model-view-controller architecture rather than replicating the original game. 

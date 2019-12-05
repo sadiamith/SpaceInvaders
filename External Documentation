@@ -1,0 +1,29 @@
+// Kennedy Slawinski
+// KTS192
+// 11053598
+// CMPT 270 Assignment 6
+// Due Dec 4, 2013
+
+Execution:
+In order to run this program, you must have this file in your folder: 
+	
+	
+From there, you can run the program java -jar 
+
+Status:
+Everything is working. 
+
+See Assignment6UML.pdf for UML diagram.
+
+
+Changes made to given classes:
+- Added score field to Controller.java
+- Added line in Controller.java to create InvaderScoreFrame
+- Added getInvaderScore function to GameInfoProvider.java
+- Added getInvaderScore() to Game.java
+- Changed invadersList to new InvaderScore type.
+
+
+
+
+
